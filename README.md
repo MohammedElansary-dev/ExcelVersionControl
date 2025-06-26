@@ -117,15 +117,6 @@ A: Yes, but make sure it's not `VeryHidden` unless you're okay with editing it m
 
 ---
 
-## ✅ To-Do / Future Ideas
-
-* [ ] Option to auto-delete old backups beyond a date threshold
-* [ ] Zip backups before saving
-* [ ] Upload to cloud (OneDrive/Google Drive) automatically
-* [ ] Auto-schedule via `Workbook_Open` event
-
----
-
 ## 📄 License
 
 MIT License — free to use, modify, and redistribute.
