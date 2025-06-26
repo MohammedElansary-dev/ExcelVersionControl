@@ -125,6 +125,6 @@ MIT License — free to use, modify, and redistribute.
 
 ## 🙌 Credits
 
-Made by \Mohamed El-ansary — inspired by the need to version Excel workbooks without version control software.
+Made by Mohamed El-ansary — inspired by the need to version Excel workbooks without version control software.
 
 ---
